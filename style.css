@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #778da9;
+    background-color: #0d1b2a;
     display: flex;
     justify-content: center;  /* Centraliza a .container horizontalmente */
     align-items: flex-start;  /* Alinha a .container ao topo da tela */
@@ -27,7 +27,7 @@ body {
 }
 
 #tilteText{
-    color: #979797;
+    color: #0d1b2a;
 }
 
 input {
@@ -40,6 +40,8 @@ input {
     border: none;
     padding: 15px;
     border-radius: 16px;
+    color: #0d1b2a;
+    font-weight: bolder;
     background-color: #ffffff;
 }
 
